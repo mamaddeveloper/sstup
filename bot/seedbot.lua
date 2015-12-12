@@ -220,28 +220,21 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {110626080,103649648,0,tonumber(our_id)},--Sudo users
+    sudo_users = {161624044,94704012,110815406},--Sudo users
     disabled_channels = {},
-    realm = {},--Realms Id
+    realm = {53167206},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v1
+    about_text = [[W_SaTaN_W V2.0
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
-
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
+@WilSoN_DeVeLoPeR
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+@Dawsh_Alfred
 
 Our channels
-@teleseedch [English]
+@W_SaTaN_w_chnnl 
 ]],
     help_text = [[
 Commands list :
@@ -349,6 +342,8 @@ will return group ban list
 
 *Only owner can use res,setowner,promote,demote and log commands
 
+Creator: @WilSoN_DeVeLoPeR
+Baraye Sakhte Gp Pm Bdin.
 ]]
 
   }
