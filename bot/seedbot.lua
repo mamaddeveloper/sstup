@@ -220,21 +220,19 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {161624044,94704012,110815406},--Sudo users
+    sudo_users = {94704012,138342554},--Sudo users
     disabled_channels = {},
-    realm = {53167206},--Realms Id
+    realm = {15903027},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[W_SaTaN_W V2.0
 An advance Administration bot based on yagop/telegram-bot 
 
 Admins
-@WilSoN_DeVeLoPeR
+@mehrparvar88
 
 Special thanks to
-@Dawsh_Alfred
+@WilSoN_DeVeLoPeR
 
-Our channels
-@W_SaTaN_w_chnnl 
 ]],
     help_text = [[
 Commands list :
@@ -342,7 +340,7 @@ will return group ban list
 
 *Only owner can use res,setowner,promote,demote and log commands
 
-Creator: @WilSoN_DeVeLoPeR
+Creator: @WilSoN_DeVeLoPeR,@mehrparvar88
 Baraye Sakhte Gp Pm Bdin.
 ]]
 
