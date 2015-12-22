@@ -220,18 +220,19 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {94704012,138342554},--Sudo users
+    sudo_users = {94477327,175278176,114041623},--Sudo users
     disabled_channels = {},
-    realm = {15903027},--Realms Id
+    realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[W_SaTaN_W V2.0
+    about_text = [[Tele_GP V2.0
 An advance Administration bot based on yagop/telegram-bot 
 
-Admins
-@mehrparvar88
+Developer
+@GenerousMan_Bot
 
 Special thanks to
-@WilSoN_DeVeLoPeR
+@I_LOVE_NO
+@Alii0093
 
 ]],
     help_text = [[
