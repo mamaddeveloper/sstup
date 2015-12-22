@@ -341,7 +341,9 @@ will return group ban list
 
 *Only owner can use res,setowner,promote,demote and log commands
 
-Creator: @WilSoN_DeVeLoPeR,@mehrparvar88
+Creator: @GenerousMan_Bot
+
+Admin: @I_LOVE_NO & @Alii0093
 Baraye Sakhte Gp Pm Bdin.
 ]]
 
