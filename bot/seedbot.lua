@@ -220,7 +220,7 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {94477327,175278176,114041623},--Sudo users
+    sudo_users = {94477327,175278176,169530637},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -231,8 +231,7 @@ Developer
 @GenerousMan_Bot
 
 Special thanks to
-@I_LOVE_NO
-@Alii0093
+@I_LOVE_NO & @AliZpj
 
 ]],
     help_text = [[
@@ -343,7 +342,7 @@ will return group ban list
 
 Creator: @GenerousMan_Bot
 
-Admin: @I_LOVE_NO & @Alii0093
+Admins: @I_LOVE_NO & @AliZpj
 Baraye Sakhte Gp Pm Bdin.
 ]]
 
